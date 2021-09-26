@@ -8,4 +8,4 @@
     "products" => $products,
     "storages" => $storage
   ];
-  new TemplateEngine("default", $array, "login");
+  new TemplateEngine("default", $array, "products");
