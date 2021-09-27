@@ -32,7 +32,7 @@ $products = [
     ],
     "Acer Aspire 1" => [
         "header" => [
-            "title" => "Laptop Acer Aspire 7 Charcoal Blac",
+            "title" => "Laptop Acer Aspire Charcoal Blac",
             "image" => "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8bGFwdG9wfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
             "price" => 450.00
 
@@ -61,7 +61,7 @@ $products = [
     ],
     "Acer Aspire 2" => [
         "header" => [
-            "title" => "Laptop Acer Aspire 7 Charcoal Blac",
+            "title" => "Laptop Acer Aspire 2 Charcoal Blac",
             "image" => "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8bGFwdG9wfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
             "price" => 450.00
 
@@ -90,7 +90,7 @@ $products = [
     ],
     "Acer Aspire 3" => [
         "header" => [
-            "title" => "Laptop Acer Aspire 7 Charcoal Blac",
+            "title" => "Laptop Acer Aspire 3 Charcoal Blac",
             "image" => "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8bGFwdG9wfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
             "price" => 450.00
 
@@ -119,7 +119,7 @@ $products = [
     ],
     "Acer Aspire 4" => [
         "header" => [
-            "title" => "Laptop Acer Aspire 7 Charcoal Blac",
+            "title" => "Laptop Acer Aspire 4 Charcoal Blac",
             "image" => "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8bGFwdG9wfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
             "price" => 450.00
 
@@ -148,7 +148,7 @@ $products = [
     ],
     "Acer Aspire 5" => [
         "header" => [
-            "title" => "Laptop Acer Aspire 7 Charcoal Blac",
+            "title" => "Laptop Acer Aspire 5 Charcoal Blac",
             "image" => "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8bGFwdG9wfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
             "price" => 450.00
 
@@ -177,7 +177,7 @@ $products = [
     ],
     "Acer Aspire 6" => [
         "header" => [
-            "title" => "Laptop Acer Aspire 7 Charcoal Blac",
+            "title" => "Laptop Acer Aspire 6 Charcoal Blac",
             "image" => "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8bGFwdG9wfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
             "price" => 450.00
 
@@ -206,7 +206,7 @@ $products = [
     ],
     "Acer Aspire 8" => [
         "header" => [
-            "title" => "Laptop Acer Aspire 7 Charcoal Blac",
+            "title" => "Laptop Acer Aspire 8 Charcoal Blac",
             "image" => "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8bGFwdG9wfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
             "price" => 450.00
 
@@ -235,7 +235,7 @@ $products = [
     ],
     "Acer Aspire 9" => [
         "header" => [
-            "title" => "Laptop Acer Aspire 7 Charcoal Blac",
+            "title" => "Laptop Acer Aspire 9 Charcoal Blac",
             "image" => "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8bGFwdG9wfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
             "price" => 450.00
 
@@ -264,7 +264,7 @@ $products = [
     ],
     "Acer Aspire 10" => [
         "header" => [
-            "title" => "Laptop Acer Aspire 7 Charcoal Blac",
+            "title" => "Laptop Acer Aspire 10 Charcoal Blac",
             "image" => "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8bGFwdG9wfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
             "price" => 450.00
 

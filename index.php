@@ -1,5 +1,4 @@
 <?php
-  session_start();
   require_once "./config/init.php";
   use modules\TemplateEngine;
   $products = include_once "./db/products.php";

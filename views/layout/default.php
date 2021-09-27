@@ -1,4 +1,3 @@
-<?php session_start(); ?>
 <!doctype html>
 <html lang="en">
 <head>
@@ -16,8 +15,9 @@
   <?php
   include_once COMPONENTS . "header.php";
   include_once COMPONENTS . "navigation.php";
-  echo $_SESSION['content'];
+  echo $content;
   include_once COMPONENTS . "footer.php";
+  
   ?>
 </body>
 </html>

@@ -1,13 +1,11 @@
 <?php
 namespace modules;
 
-session_start();
-
 class TemplateEngine {
 
     public function __construct($template, $params, $layout)
     {
-        include_once LAYOUTS . $template . ".php";
+        
         if (is_array($params)) {
             extract($params);
         }
@@ -19,8 +17,6 @@ class TemplateEngine {
             return "ERORR!";
         }
         $content = ob_get_clean();
-        $_SESSION['content'] = $content;
-        $_SESSION['params'] = $params;
-        $_SESSION['products'] = $products;
+        include_once LAYOUTS . $template . ".php";
     }
 }
